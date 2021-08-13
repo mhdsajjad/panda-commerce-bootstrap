@@ -1,0 +1,26 @@
+.panda-carousel-background {
+  background-color: #feeae9;
+}
+.highligh img {
+  width: 100px;
+}
+.highligh-bg-orenge {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+
+.highligh-bg-parple {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.highligh-bg-blue {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
+.panda-border-radias {
+  border-radius: 10px;
+}
+.panda-buy-now-btn {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
